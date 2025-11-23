@@ -5,7 +5,9 @@ A list of services I use to deploy in my Homelab.
 | | Name | Description | Status 
 | ------------- | ------------- | ------------- | ------------- |
 | <img width="64" height="64" alt="convertx" src="https://github.com/user-attachments/assets/550af4e3-c914-4b37-a4af-3a1ed5409b5e"/> | [ConvertX](https://github.com/C4illin/ConvertX) | A versatile tool designed to convert file formats efficiently and effortlessly across various platforms. | ✅ Running
-| <img width="64" height="64" alt="docuseal" src="https://github.com/user-attachments/assets/57b9cf1d-a49e-4dc0-809c-9f666d9a5de7" /> | [DocuSeal](https://github.com/docusealco/docuseal) | A versatile tool designed to convert file formats efficiently and effortlessly across various platforms. | ✅ Running
+| <img width="64" height="64" alt="docuseal" src="https://github.com/user-attachments/assets/57b9cf1d-a49e-4dc0-809c-9f666d9a5de7" /> | [DocuSeal](https://github.com/docusealco/docuseal) | Open-source self-hosted platform to securely sign and manage digital documents. | ✅ Running
+| <img width="64" height="64" alt="docuseal" src="https://github.com/user-attachments/assets/57b9cf1d-a49e-4dc0-809c-9f666d9a5de7" /> | [DocuSeal](https://github.com/docusealco/docuseal) | Open-source self-hosted platform to securely sign and manage digital documents. | ✅ Running
+
 
 ## Hardware
 
