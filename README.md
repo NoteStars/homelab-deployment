@@ -14,7 +14,7 @@ A list of services I use to deploy in my Homelab.
 
 ## Hardware
 
-I am currently running a **HP Prodesk 600 G3 SFF** for my homelab for hosting Docker containers and modest game server hosting. 
+I am currently running a **HP Prodesk 600 G3 SFF** for hosting Docker containers and modest game server hosting. 
 <table>
 <tr>
 <td width="300"><img src="https://m.media-amazon.com/images/I/710HbotFboS._AC_SX679_.jpg" alt="Computer Image"></td>
